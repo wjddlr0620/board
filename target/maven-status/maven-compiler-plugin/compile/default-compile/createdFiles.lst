@@ -1,0 +1,13 @@
+coffee/BoardRepository.class
+coffee/Requested.class
+coffee/BoardApplication.class
+coffee/PolicyHandler.class
+coffee/Ordered.class
+coffee/Board.class
+coffee/AbstractEvent.class
+coffee/Made.class
+coffee/AbstractEvent$1.class
+coffee/MakeCanceled.class
+coffee/BoardViewHandler.class
+coffee/Notified.class
+coffee/config/kafka/KafkaProcessor.class

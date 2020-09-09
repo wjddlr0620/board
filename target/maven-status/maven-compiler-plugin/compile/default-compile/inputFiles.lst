@@ -1,0 +1,12 @@
+/home/project/board/src/main/java/coffee/AbstractEvent.java
+/home/project/board/src/main/java/coffee/PolicyHandler.java
+/home/project/board/src/main/java/coffee/BoardRepository.java
+/home/project/board/src/main/java/coffee/BoardViewHandler.java
+/home/project/board/src/main/java/coffee/Ordered.java
+/home/project/board/src/main/java/coffee/BoardApplication.java
+/home/project/board/src/main/java/coffee/Made.java
+/home/project/board/src/main/java/coffee/Notified.java
+/home/project/board/src/main/java/coffee/Board.java
+/home/project/board/src/main/java/coffee/MakeCanceled.java
+/home/project/board/src/main/java/coffee/config/kafka/KafkaProcessor.java
+/home/project/board/src/main/java/coffee/Requested.java
